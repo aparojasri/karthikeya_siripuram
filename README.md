@@ -3,7 +3,7 @@
 A single-page, responsive website showcasing my work across engineering, art, and literature. This project is a testament to my belief that **science, tech, and creativity** are deeply interconnected.
 
 ### 🌐 View Live Site
-[Your Live Netlify URL Here] 
+https://karthikeyasiripuram.netlify.app/ 
 
 ---
 
